@@ -1,0 +1,14 @@
+24d848c30b8d6e516bcb96ff1cc87023 *DESCRIPTION
+e3ebca8992c8fcbce55fd8d208bd9a4a *NAMESPACE
+812424a49cd299b9728ecf2d2b5a5213 *R/cem_match.R
+b1d99181baed27b040531216195b2915 *R/content_levels.R
+77b91b399d9a8b26243104b96220088d *R/project.R
+a8ee021f75011a20a127102c6c603053 *R/refit.R
+d75ceddb46ba72fe27bd135e63ab1546 *R/textmatching-pkg.R
+166c85a0e4948b4272d25e380c934145 *data/sim.rda
+9b199404e1a5756b29e24927430af8b5 *man/cem_match.Rd
+380e97b2a22d624589289eedd848b42f *man/content_levels.Rd
+48ecd8906fd9e7a2715c217e0375f0ac *man/project.Rd
+046a7d9af65209126455be0ff75f4057 *man/refit.Rd
+6d60b9e156e3579dada8d077ae5008cb *man/sim.Rd
+2fc72e942db71bcaaba1a74ac65b4bc7 *man/textmatching-pkg.Rd
